@@ -101,11 +101,11 @@ There are 3 statuses available for a dish. They are:
 * Not available - prevents ordering and shows not available on the dish
 * Out of stock - prevents ordering and shows out of stock on the dish
 
-In the admin dashboard, you can edit the status of a dish by checking the tickbox on the left of it. Then select the desired status from the popup menu.
+In the admin dashboard, you can edit the status of a dish by checking the tick-box on the left of it. Then select the desired status from the popup menu.
 
 ## Option Sets
 
-All **dish customization is done using option sets**. Option sets are a configurable set of options that can be assigned to any number of dishes. With option sets, you are able to create requirements such as:
+All **dish customisation is done using option sets**. Option sets are a configurable set of options that can be assigned to any number of dishes. With option sets, you are able to create requirements such as:
 
 * Select your pizza crust
 * Select one or more sauces
@@ -117,7 +117,7 @@ To learn how to create an option set that meets your requirements, read the desc
 
 ## Dish Tags
 
-Tags allow you to highly particular attributes about a dish with a fully customizable visual indicator. You can create tags for attributes such as:
+Tags allow you to highly particular attributes about a dish with a fully customisable visual indicator. You can create tags for attributes such as:
 
 * Spicy
 * Vegan
