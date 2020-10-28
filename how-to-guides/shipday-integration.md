@@ -22,7 +22,7 @@ description: >-
 
 {% embed url="https://youtu.be/ZRzKbq3M-co" caption="" %}
 
-1. Open your CloudWaitress account - [admin.SkipQoo.io](https://admin.cloudwaitress.com/).
+1. Open your SkipQoo account - [admin.SkipQoo.io](https://admin.cloudwaitress.com/).
 2. Select 'Manage' for the Restaurant you would like to integrate.
 3. Go to 'Settings' &gt; 'Integrations' &gt; Click on the 'Shipday Logo'.
 4. Paste the Shipday API key from your Shipday.com account.
