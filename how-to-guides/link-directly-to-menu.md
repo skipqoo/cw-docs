@@ -9,13 +9,13 @@ description: Lean how to use menu_id to create a direct link to a specific menu.
 Creating a direct link to your menu is a fairly straight forward process. The below example links to a specific menu within the demo store.
 
 ```text
-store-demo.SkipQoo.com?menu_id=6kNXYMVEl
+store-demo.SkipQoo.app?menu_id=6kNXYMVEl
 ```
 
 Replace the above url with your restaurant url;
 
 ```bash
-store-demo.SkipQoo.com > yourdomain.com
+store-demo.SkipQoo.app > yourdomain.com
 ```
 
 Replace add the menu id of the menu that you would like to link to;

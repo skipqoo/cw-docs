@@ -3,7 +3,6 @@
 * [Overview](README.md)
 * [Getting Started](getting-started/README.md)
   * [Hardware Requirements](getting-started/hardware-requirements-1.md)
-  * [10-Minute Quickstart](getting-started/10-minute-quickstart.md)
   * [Setup Your Menus](getting-started/setup-your-menus.md)
   * [Configure Your Services](getting-started/configure-your-services.md)
   * [Customize Your Design](getting-started/customize-your-design.md)
@@ -18,7 +17,6 @@
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
   * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
-  * [How to add Driver Tracking](how-to-guides/shipday-integration.md)
   * [Purchase A Domain Name](how-to-guides/purchase-a-domain-name.md)
   * [Setup A Custom Domain](how-to-guides/setup-a-custom-domain.md)
   * [Link Directly to menu](how-to-guides/link-directly-to-menu.md)
@@ -27,7 +25,4 @@
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
-  * [Special Features](platform-information/special-features/README.md)
-    * [Public Holiday Surcharge](platform-information/special-features/public-holiday-surcharge.md)
-    * [COVID-19 Discount for United Kingdom](platform-information/special-features/covid-19-discount-for-united-kingdom.md)
 
