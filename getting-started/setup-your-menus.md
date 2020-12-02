@@ -7,6 +7,10 @@ description: >-
 
 # Setup Your Menus
 
+{% embed url="https://youtu.be/BRrjiVarAXE" caption="https://youtu.be/BRrjiVarAXE" %}
+
+
+
 ## Setup Process
 
 Menus are organized in a tree structure. Menus contain categories and categories contain dishes. The general setup process is as follows.
