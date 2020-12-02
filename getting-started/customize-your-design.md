@@ -7,6 +7,8 @@ description: >-
 
 # Customize Your Design
 
+{% embed url="https://youtu.be/9IwL8yt8WV4" caption="https://youtu.be/9IwL8yt8WV4" %}
+
 ## How To Customize Your Design
 
 1. Visit the restaurant settings page and go to the design tab
