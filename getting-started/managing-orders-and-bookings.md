@@ -7,6 +7,10 @@ description: >-
 
 # Managing Orders & Bookings
 
+{% embed url="https://youtu.be/Jg6tVGEIt7E" caption="https://youtu.be/Jg6tVGEIt7E" %}
+
+
+
 ## Receiving Orders
 
 ### In-Store Setup
