@@ -6,6 +6,10 @@ description: >-
 
 # Configure Your Services
 
+{% embed url="https://youtu.be/wvAmanMYYzs" caption="https://youtu.be/wvAmanMYYzs" %}
+
+
+
 There are 4 services currently available. They are:
 
 * Pickup - orders that are picked up in store by customers to take away
